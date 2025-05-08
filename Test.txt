@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 I have created new branch again named franch for no conflict merge
 after adding and commiting i have swicted to master branch
 in master i created new file 
 this file doesnt exist in french branch so when i merge this it wont cause 
 any conflict.
 
+=======
+Hello
+Hey
+>>>>>>> franch
