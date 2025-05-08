@@ -8,4 +8,8 @@ any conflict.
 =======
 Hello
 Hey
+<<<<<<< HEAD
+>>>>>>> franch
+=======
+Hello
 >>>>>>> franch
