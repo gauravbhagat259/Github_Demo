@@ -1,4 +1,3 @@
 Hello
 This Is Gauarb Bhagat
-I am working on Git conflict
 Now i will merge the file
